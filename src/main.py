@@ -324,7 +324,7 @@ class Backtracking:
         return None
 
 
-file = open('top95.txt', 'r')
+file = open('Puzzles.txt', 'r')
 problems = file.readlines()
 
 running_time_mrv = []

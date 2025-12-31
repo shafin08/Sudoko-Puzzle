@@ -7,5 +7,6 @@ The inspriration for this program is demonstrating how algorithms used for Const
 
 # Running the program:
 
-Running the program will show 5 solved 9x9 sudoku puzzle
+Running the program will show 5 solved 9x9 sudoku puzzle.
+
 There is also an option to receive a plotted graph to show how different combination of algorithms can change the running time for solving the problem.
